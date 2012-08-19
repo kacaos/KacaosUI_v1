@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: |cff1E90FFkacaosUI|r
+## Version: 1.2.2
+## Credits: Tukz, Pat, Swordyy, Sinaris, Merith, Elv, Smelly, Saft, Ex, Sniffles, Gszus, JerichoHM and some other people who helped or inspired me  =)
+## Notes: Kacaos edit of Tukui.
+## Author: Kacaos (Jâspar - EU Frostwolf)
+## SavedVariablesPerCharacter: KacaosUISaved
+## RequiredDeps: KacaosUI_Config, Tukui
+
+KacaosUI.xml

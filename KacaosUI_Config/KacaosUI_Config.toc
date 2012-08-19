@@ -1,0 +1,6 @@
+## Interface: 40300
+## Title: |cff1E90FFkacaosUI Config|r
+## Notes: Options for KacaosUI
+## Author: kacaos
+
+config\config.lua
