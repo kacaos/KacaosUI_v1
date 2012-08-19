@@ -12,7 +12,7 @@ p. Best resolution is 1920x1080, because thats mine. Lower resolutions should wo
 
 p. +Required+
 
-p. "*{color:darkorchid}Tukui*":https://github.com/tukz/Tukui/downloads is <i>required</i> to run this addon!
+p. "*{color:darkorchid}Tukui*":http://www.tukui.org/dl.php is <i>required</i> to run this addon!
 
 p. *+External Addons (not included)+*
 Tiny dps - lighweight dmg meter
