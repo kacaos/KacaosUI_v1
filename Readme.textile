@@ -20,7 +20,7 @@ xct - lightweight sct
 Tukui_iFilger - dot tracker
 PowerAuras Classic
 
-p. Bugs or wishes post at the "*{color:darkorchid}Tukui*":http://www.tukui.org/forums/topic.php?id=18945 Forum
+p. Bugs or wishes post at the "*{color:darkorchid}Tukui*":http://www.tukui.org/addons/index.php?act=view&id=49 Forum
 
 h1. Screenshots
 
