@@ -1,0 +1,39 @@
+
+p. Special Thanks to:
+%{color:red}Tukz%, %{color:lime}Pat%, %Swordyy%, %Sinaris%, %Merith%, %{color:red}Elv22%, %{color:darkorange}Smelly%, %{color:darkprange}Saft% and the "%{color:darkorchid}Tukui%":http://www.tukui.org -Community!!
+
+p. +What is *{color:deepskyblue}KacaosUI*?+
+
+p. *{color:deepskyblue}KacaosUI* is an external Addon which skins the original *{color:darkorchid}Tukui*.
+
+p. This ui have an minimalistic look and its an extreme lightweight user interface for World of Warcraft.
+
+p. Best resolution is 1920x1080, because thats mine. Lower resolutions should work too, i hope so !http://www.wowinterface.com/images/style_mmoi_wowi2/smilies/wink.gif!
+
+p. +Required+
+
+p. "*{color:darkorchid}Tukui*":https://github.com/tukz/Tukui/downloads is <i>required</i> to run this addon!
+
+p. *+External Addons (not included)+*
+Tiny dps - lighweight dmg meter
+xct - lightweight sct
+Tukui_iFilger - dot tracker
+PowerAuras Classic
+
+p. Bugs or wishes post at the "*{color:darkorchid}Tukui*":http://www.tukui.org/forums/topic.php?id=18945 Forum
+
+h1. Screenshots
+
+p. Unitframe Layout 1 + 2
+"!http://www.tukui.org/storage/thumbs/839833WoWScrnShot_011412_195708.jpg!":http://www.tukui.org/storage/viewer.php?id=839833WoWScrnShot_011412_195708.jpg "!http://www.tukui.org/storage/thumbs/678998WoWScrnShot_011412_195532.jpg!":http://www.tukui.org/storage/viewer.php?id=678998WoWScrnShot_011412_195532.jpg
+
+
+p. Actionbarlayout 1bottom, 2bottom and 3bottomrows
+"!http://www.tukui.org/storage/thumbs/901954WoWScrnShot_011412_195419.jpg!":http://www.tukui.org/storage/viewer.php?id=901954WoWScrnShot_011412_195419.jpg "!http://www.tukui.org/storage/thumbs/213640WoWScrnShot_011412_192834.jpg!":http://www.tukui.org/storage/viewer.php?id=213640WoWScrnShot_011412_192834.jpg
+"!http://www.tukui.org/storage/thumbs/71287WoWScrnShot_011412_195324.jpg!":http://www.tukui.org/storage/viewer.php?id=71287WoWScrnShot_011412_195324.jpg
+
+p. Raidlayout DPS + Heal
+"!http://www.tukui.org/storage/thumbs/638037WoWScrnShot_011412_200017.jpg!":http://www.tukui.org/storage/viewer.php?id=638037WoWScrnShot_011412_200017.jpg "!http://www.tukui.org/storage/thumbs/719055WoWScrnShot_011412_200052.jpg!":http://www.tukui.org/storage/viewer.php?id=719055WoWScrnShot_011412_200052.jpg
+
+p. Threatbar + Altpowerbar Layout1 and 2
+"!http://www.tukui.org/storage/thumbs/99064threat+altpower.jpg!":http://www.tukui.org/storage/viewer.php?id=99064threat+altpower.jpg
